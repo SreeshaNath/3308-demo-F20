@@ -21,7 +21,7 @@ std::vector<int> AddN(std::vector<int> v, int n)
 }
 
 
-int main(){
+/*int main(){
 	//Testing Factorial()
 	std::cout << Factorial (5) <<std::endl;
 
@@ -40,4 +40,4 @@ int main(){
 		std::cout<<res[i]<<" ";
 	}
 	std::cout<<std::endl;
-}
+}*/
